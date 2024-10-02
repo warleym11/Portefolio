@@ -7706,6 +7706,10 @@ textarea.form-control-lg {
   margin-bottom: 0 !important;
 }
 
+.desc{
+  font-size: 2rem;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem !important;
 }
@@ -7724,6 +7728,14 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+}
+
+.mb-5 a{
+  font-size: 1rem;
+}
+
+.mb-5 img{
+
 }
 
 .mb-auto {
@@ -10996,7 +11008,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 section.resume-section {
